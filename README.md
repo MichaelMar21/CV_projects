@@ -12,6 +12,7 @@ ncluded. I tried my best to get as good results as I read during literature rese
 
 Data file - all data used in described projects
 
+All of projects were created in Google Colab - that's why dates shown on GitHub are the same.
 
 
 
